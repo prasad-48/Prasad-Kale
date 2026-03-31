@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Prasad%20Kale&fontSize=40&fontColor=fff&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Prasad Kale</h1>
+<h1 align="center">Hello, I'm Prasad Kale</h1>
 <h3 align="center">Full Stack Developer | React.js | Java | SQL</h3>
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 
-### 🚀 Projects (Coming Soon)
+###  Projects 
 
 #### 🔹 Job Portal & Skill Tracker
 
@@ -76,4 +76,3 @@
 
 ---
 
-💡 *Projects with code and live demos will be added here soon.*
